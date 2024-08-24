@@ -72,9 +72,9 @@ public class Board {
         return null;
     }
 
-    // TODO: Implement getGameGameState method
+    // TODO: Implement getGameState method
     /**
-     * getGameGameState is a static method to calculate the game's state given a
+     * getGameState is a static method to calculate the game's state given a
      * board
      * of tokens. The method is static because the AI class would find it useful
      * for determining which moves help it win.
@@ -84,7 +84,7 @@ public class Board {
      * @throws Exception if the board is not in a valid state (i.e. there are
      *                   floating tokens)
      */
-    public static GameState getGameGameState(GameToken[][] board) throws Exception {
+    public static GameState getGameState(GameToken[][] board) throws Exception {
         return null;
     }
 

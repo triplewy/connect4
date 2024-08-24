@@ -1,8 +1,3 @@
-import java.time.Duration;
-import java.time.Instant;
-import java.util.HashMap;
-import java.util.Map;
-
 public class AI {
     // Determine whether AI is player 1 or player 2
     private Boolean isPlayerOne;
